@@ -1,3 +1,8 @@
+/**
+* Copyright (C) 2013 Imran Akthar (www.imranakthar.com)
+* imran@imranakthar.com
+*/
+
 package org.opencv.samples.fd;
 
 import java.util.List;
