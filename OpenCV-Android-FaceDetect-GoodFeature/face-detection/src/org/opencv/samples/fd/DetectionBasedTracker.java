@@ -1,3 +1,7 @@
+/**
+ * Copyright (C) 2013 Imran Akthar(www.imranakthar.com)
+ 
+ */
 package org.opencv.samples.fd;
 
 import org.opencv.core.Mat;
