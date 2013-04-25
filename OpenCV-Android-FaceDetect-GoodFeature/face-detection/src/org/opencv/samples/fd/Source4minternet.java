@@ -1,5 +1,11 @@
+/**
+* Copyright (C) 2013 Imran Akthar (www.imranakthar.com)
+* imran@imranakthar.com
+*/
+
 //http://gtcmt-android-swarmbot.googlecode.com/svn-history/r61/trunk/Demokit2/src/com/google/android/DemoKit/CtView.java
 //imran
+
 package com.google.android.DemoKit;
 
 import java.io.File;
