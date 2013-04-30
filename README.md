@@ -15,6 +15,9 @@ The code contains comments, wherever necessary.
 
 Important: Make sure, you are importing and adding OpenCV library , while building this application.
 
+Detailed tutorial http://imranakthar.com/android-opencv-tutorial-2-face-tracking-using-optical-flow-goodfeaturetotrack-api/
+
+
 imran [AT] imranakthar [DOT] com
 
 imranakthar.com
