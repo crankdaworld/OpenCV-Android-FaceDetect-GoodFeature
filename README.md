@@ -20,4 +20,4 @@ Detailed tutorial http://imranakthar.com/android-opencv-tutorial-2-face-tracking
 
 imran [AT] imranakthar [DOT] com
 
-imranakthar.com
+www.imranakthar.com
